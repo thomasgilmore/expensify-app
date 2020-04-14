@@ -43,7 +43,8 @@
     "style-loader": "0.18.2",
     "uuid": "3.1.0",
     "validator": "8.0.0",
-    "webpack": "3.1.0"
+    "webpack": "3.1.0",
+    "yarn.lock": "^0.0.1-security"
   },
   "devDependencies": {
     "cross-env": "5.0.5",
