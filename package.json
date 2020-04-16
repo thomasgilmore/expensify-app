@@ -2,7 +2,7 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Thomas Gilmore",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
